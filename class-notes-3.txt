@@ -1,0 +1,156 @@
+Day-1  Software Installation
+----------------------------- 
+Java - v17
+Maven - v3.9.9
+IntelliJ IDEA Tool - v2024.3.5
+Git - v2.49.1
+
+Create the GitHub repository account - https://github.com/kannanfsd/fiit-priyanka
+
+Java API[Application Programming Interface]
+--------
+Java SE API		Java EE API			Java ME API
+Standard Edition	Enterprise Edition		Micro/Mobile Edition
+Core Java		Advanced Java			Embedded Java
+|__scope
+  |__ programming fundamentals
+packages
+|__folder structure
+   |__2025
+      |__jan
+         |__day1
+      |__feb
+      |__mar
+      |__apr
+         |__day16
+         |  |__today-selfi.png
+         |__day17
+            |__today-selfi.png
+
+2013.feb.day14
+
+java
+|__io
+   |__NameOfFile.java
+|__lang
+   |__NameOfFile.java
+   |__System.java
+   |__String.java
+|__util
+|__net
+|__net
+
+Types of Java Files [FileName.java]
+--------------------
+Class files
+Abstract class files
+Interface files
+Exception files
+Error files
+Annotation files
+Enum files
+Record files
+
+Class Files
+------------
+1. case sensitive language [student - Student - STUDENT]
+2. reversed identifier [keywords]
+
+if	class	   boolean   float    protected	  case      catch
+else	abstract   byte      double   default     break     finally
+do	interface  short     char     final       continue   
+while	enum       int	     public   static      return
+for	record     long      private  switch      try
+
+data-type 
+|__primitive data types[boolean, byte, short, int, long, float, double, char]
+|__reference data types[Except the primitive]
+
+E.g.
+ final int studentId = 10;
+ static String firstName;
+ boolean status;
+
+Create class files [It is fundamental build-in block in Java application]
+------------------
+syntax
+------
+
+ClassName.java
+
+class Welcome {			Welcome.java
+  declared variables;
+  defined methods;
+}
+
+myprofile.doc
+myprofile.docx
+myprofile.pdf
+mydata.xls
+mydata.xlsx
+mypresentation.ppt
+firstprogram.c
+secondprogram.cpp
+thirdprogram.py
+fourthprogram.csharp
+myprogram.java
+
+LifeCycle of Java Program
+--------------------------
+source code		Welcome.java
+   |  			| java compiler
+Compile			javac Welcome.java
+   |			| compiler generate the byte code
+Byte code		Welcome.class	
+   |			| Java Virtual Machine 
+Output code		java Welcome
+
+what goes in a source file?
+public class Vehicle {	--> create new java class in file directory
+			--> Vehicle.java
+}
+
+what goes in a class?
+public class Vehicle {	--> create the move method inside the class
+  int vehicleId;	--> initiate the primitive type of variable1
+  String brandName;	--> initiate the reference type of variable2
+  void move() {		--> method definition/concrete method
+			--> method have a body of the content
+  }
+  void turnLeft() {
+
+  }
+}
+
+what goes in a method?
+public class Vehicle {	
+  void move() {		 
+    statement1;		--> business logic [Arithmetic operation]
+    statement2;		--> business logic [perform factorial etc..]
+  }
+}
+
+How JVM knows where to start?
+public static void main(String[] args) {
+   statement1;
+   statement2;
+}
+
+
+ 
+
+
+
+Vijayalakshmi
+9677413760
+Mail Id: vijiananthan16@gmail.com
+
+
+
+
+
+Completion of Java Courses and Request for Payment Release
+
+
+
+

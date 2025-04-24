@@ -1,0 +1,17 @@
+Day-1  Software Installation
+----------------------------- 
+Java - v17
+Maven - v3.9.9
+IntelliJ IDEA Tool - v2024.3.5
+Git - v2.49.1
+
+Create the GitHub repository account - https://github.com/kannanfsd/fiit-priyanka
+
+Java API[Application Programming Interface]
+--------
+Java SE API		Java EE API			Java ME API
+Standard Edition	Enterprise Edition		Micro/Mobile Edition
+Core Java		Advanced Java			Embedded Java
+|_scope
+
+
